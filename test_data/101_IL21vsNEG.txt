@@ -1,0 +1,359 @@
+#%result_name=Analysis_4
+#%array_type=Clariom_S_Human
+#%annotation=Clariom_S_Human.r1.na36.hg38.a1.transcript.csv
+#%comparison=101 IL21 vs 101 NEG
+ID	101 IL21 Avg (log2)	101 NEG Avg (log2)	Fold Change	P-val	FDR P-val	Gene Symbol	Description	Group
+TC0100012734.hg.1	12,45	10,14	4,95	3,64E-06	0,0597	TNFRSF9	tumor necrosis factor receptor superfamily, member 9	Coding
+TC1600008427.hg.1	12,23	9,61	6,16	5,57E-06	0,0597	ZNRF1	zinc and ring finger 1, E3 ubiquitin protein ligase	Multiple_Complex
+TC1000011368.hg.1	13,43	8,94	22,46	2,26E-05	0,1609	ANKRD22	ankyrin repeat domain 22	Multiple_Complex
+TC1300010037.hg.1	6,1	4,6	2,84	3,00E-05	0,1609	KIAA0226L	KIAA0226-like	Multiple_Complex
+TC0200010525.hg.1	8,34	6,64	3,24	6,00E-05	0,2058	CTLA4	cytotoxic T-lymphocyte-associated protein 4	Multiple_Complex
+TC0100014857.hg.1	13,48	12,44	2,05	6,63E-05	0,2058	GBP5	guanylate binding protein 5	Multiple_Complex
+TC0600014260.hg.1	5,37	6,58	-2,33	7,58E-05	0,2058	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2	Multiple_Complex
+TC1200009972.hg.1	8,28	6,12	4,45	7,67E-05	0,2058	GPR19	G protein-coupled receptor 19	Multiple_Complex
+TC0200008071.hg.1	8,97	7,49	2,79	0,0001	0,2596	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	Multiple_Complex
+TC0400010578.hg.1	6,5	5,36	2,21	0,0001	0,3014	YIPF7	Yip1 domain family member 7	Multiple_Complex
+TC0600011876.hg.1	10,49	12,46	-3,91	0,0002	0,3250	YIPF3	Yip1 domain family member 3	Multiple_Complex
+TC1700006582.hg.1	7,57	6,19	2,62	0,0002	0,3432	OR3A3	olfactory receptor, family 3, subfamily A, member 3	Coding
+TC0700010352.hg.1	7,68	9,1	-2,67	0,0002	0,3518	ANKMY2	ankyrin repeat and MYND domain containing 2	Multiple_Complex
+TC0300007124.hg.1	6,16	7,95	-3,45	0,0002	0,3808	ZNF621	zinc finger protein 621	Multiple_Complex
+TC0500008902.hg.1	6,05	7,2	-2,22	0,0003	0,4277	RELL2	RELT-like 2	Multiple_Complex
+TC1000006911.hg.1	8,73	6,77	3,91	0,0004	0,4863	TMEM236	transmembrane protein 236	Coding
+TC0100018207.hg.1	8,54	9,76	-2,34	0,0005	0,4863	TSSK3	testis-specific serine kinase 3	Coding
+TC0400007592.hg.1	8,82	7,41	2,66	0,0005	0,4863	PAICS	phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoimidazole succinocarboxamide synthetase	Multiple_Complex
+TC0300012191.hg.1	14,12	12,8	2,5	0,0005	0,4863	PARP9	poly(ADP-ribose) polymerase family member 9	Multiple_Complex
+TC0800009875.hg.1	9,08	10,61	-2,89	0,0007	0,4863	TNFRSF10A	tumor necrosis factor receptor superfamily, member 10a	Multiple_Complex
+TC0100015271.hg.1	5,41	6,55	-2,2	0,0007	0,4863	OVGP1	oviductal glycoprotein 1	Multiple_Complex
+TC1700011273.hg.1	6,81	9,25	-5,45	0,0007	0,4863	TRIM37	tripartite motif containing 37	Multiple_Complex
+TC1300008511.hg.1	5,19	6,79	-3,04	0,0007	0,4863	KATNAL1	katanin p60 subunit A-like 1	Multiple_Complex
+TC0600011136.hg.1	8,34	9,74	-2,64	0,0007	0,4863	HIST1H2BG	histone cluster 1, H2bg	Multiple_Complex
+TC1700011451.hg.1	7,93	8,99	-2,09	0,0007	0,4863	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	Multiple_Complex
+TC1100007537.hg.1	6,37	5,33	2,06	0,0008	0,4863	TRIM49B	tripartite motif containing 49B	Coding
+TC2000008123.hg.1	8,21	6,74	2,76	0,0008	0,4863	NRSN2-AS1	NRSN2 antisense RNA 1	NonCoding
+TSUnmapped00000294.hg.1	6,27	5,25	2,04	0,0009	0,4863	VPS11	VPS11, CORVET/HOPS core subunit [Source:HGNC Symbol;Acc:HGNC:14583]	NonCoding
+TC0200014792.hg.1	4,05	5,96	-3,76	0,0009	0,4863	COBLL1	cordon-bleu WH2 repeat protein like 1	Multiple_Complex
+TC1100012166.hg.1	6,27	5,26	2,02	0,0009	0,4863	CASP5	caspase 5	Multiple_Complex
+TC0200011130.hg.1	9,4	10,73	-2,51	0,0009	0,4863	DGKD	diacylglycerol kinase, delta 130kDa	Multiple_Complex
+TC1900006508.hg.1	10,56	11,73	-2,25	0,0009	0,4863	ABCA7	ATP binding cassette subfamily A member 7	Multiple_Complex
+TC0X00007416.hg.1	10,12	8,54	2,98	0,0010	0,4863	FAAH2	fatty acid amide hydrolase 2	Multiple_Complex
+TC0100015310.hg.1	7,93	6,77	2,24	0,0010	0,4863	SLC16A1	solute carrier family 16 (monocarboxylate transporter), member 1	Multiple_Complex
+TC1400009002.hg.1	7,08	8,19	-2,16	0,0011	0,4863	SEC23A	Sec23 homolog A, COPII coat complex component	Multiple_Complex
+TSUnmapped00000175.hg.1	6,91	8,95	-4,11	0,0011	0,4863	NDUFA10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa	Coding
+TC1500007196.hg.1	6,75	5,2	2,92	0,0011	0,4863	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	Multiple_Complex
+TC0100014009.hg.1	7,09	8,28	-2,27	0,0011	0,4863	TESK2	testis-specific kinase 2	Multiple_Complex
+TC1300007546.hg.1	7,04	5,39	3,14	0,0011	0,4863	IRG1	immunoresponsive 1 homolog (mouse)	Coding
+TC0800007382.hg.1	8,06	6,37	3,22	0,0011	0,4863	IDO1	indoleamine 2,3-dioxygenase 1	Multiple_Complex
+TC1500007752.hg.1	5,47	4,42	2,06	0,0011	0,4863	THSD4	Transcript Identified by AceView, Entrez Gene ID(s) 79875	Unassigned
+TC1700008342.hg.1	10,03	8,67	2,57	0,0012	0,4863	PCTP	phosphatidylcholine transfer protein	Multiple_Complex
+TC0X00008108.hg.1	7,32	8,5	-2,28	0,0013	0,4863	TMEM164	transmembrane protein 164	Multiple_Complex
+TC1900007096.hg.1	7,92	9,11	-2,28	0,0013	0,4863	JUNB	jun B proto-oncogene	Multiple_Complex
+TC2000008242.hg.1	8,71	9,87	-2,23	0,0013	0,4863	RNF24	ring finger protein 24	Multiple_Complex
+TC1100010440.hg.1	6,75	5,64	2,16	0,0014	0,4863	MPPED2	metallophosphoesterase domain containing 2	Multiple_Complex
+TC1200012775.hg.1	8,35	6,23	4,35	0,0014	0,4863	ST8SIA1	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1	Multiple_Complex
+TC0800012324.hg.1	9,37	8,19	2,27	0,0014	0,4863	LRRC69; MIR4661	leucine rich repeat containing 69; microRNA 4661	Multiple_Complex
+TC0600014292.hg.1	11,12	9,78	2,53	0,0015	0,4863	OARD1	O-acyl-ADP-ribose deacylase 1	Multiple_Complex
+TC0100010467.hg.1	6,51	4,59	3,78	0,0015	0,4863	UCK2	Jeck2013 ALT_ACCEPTOR, ALT_DONOR, coding, INTERNAL, intronic best transcript NM_012474	NonCoding
+TC0400008666.hg.1	9,43	10,43	-2,01	0,0015	0,4863	ABHD18	abhydrolase domain containing 18	Multiple_Complex
+TC0100008686.hg.1	5,64	4,31	2,52	0,0015	0,4863	LRRC7	leucine rich repeat containing 7	Multiple_Complex
+TC1100013082.hg.1	7,7	6,24	2,75	0,0015	0,4863	PIWIL4	piwi-like RNA-mediated gene silencing 4	Multiple_Complex
+TC1600011147.hg.1	6,53	7,67	-2,21	0,0015	0,4863	MTHFSD	methenyltetrahydrofolate synthetase domain containing	Multiple_Complex
+TC2000010021.hg.1	7,87	6,66	2,32	0,0016	0,4863	ZNFX1	zinc finger, NFX1-type containing 1	Multiple_Complex
+TC0600011315.hg.1	4,78	6,23	-2,74	0,0016	0,4863	ZFP57	ZFP57 zinc finger protein	Multiple_Complex
+TC0600009235.hg.1	4,81	3,76	2,06	0,0016	0,5004	FAM26D	family with sequence similarity 26, member D	Coding
+TC1200010415.hg.1	5,6	7,13	-2,89	0,0017	0,5019	SLC2A13	solute carrier family 2 (facilitated glucose transporter), member 13	Multiple_Complex
+TSUnmapped00000667.hg.1	7,45	8,56	-2,16	0,0017	0,5019	TRAPPC4	trafficking protein particle complex 4	NonCoding
+TC0100009889.hg.1	11,43	10,31	2,17	0,0017	0,5039	VPS45	vacuolar protein sorting 45 homolog (S. cerevisiae)	Multiple_Complex
+TC1500008933.hg.1	8,92	9,92	-2	0,0018	0,5044	GOLGA8O	golgin A8 family, member O	Multiple_Complex
+TC2000007519.hg.1	10,54	9,16	2,6	0,0018	0,5044	CD40	CD40 molecule, TNF receptor superfamily member 5	Multiple_Complex
+TC0100010255.hg.1	6,24	4,7	2,91	0,0018	0,5044	OR10J4	olfactory receptor, family 10, subfamily J, member 4 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:15408]	Pseudogene
+TC0900011247.hg.1	8,33	7,17	2,23	0,0019	0,5056	ZFP37	ZFP37 zinc finger protein	Coding
+TC1000008988.hg.1	7,07	8,59	-2,88	0,0020	0,5187	TRUB1	TruB pseudouridine (psi) synthase family member 1	Multiple_Complex
+TC1000008054.hg.1	7,68	6,48	2,31	0,0020	0,5187	PLAU	plasminogen activator, urokinase	Multiple_Complex
+TC1400010757.hg.1	9,82	10,89	-2,1	0,0021	0,5187	L3HYPDH	L-3-hydroxyproline dehydratase (trans-)	Multiple_Complex
+TC0200016753.hg.1	4,82	6,1	-2,43	0,0021	0,5187	CCDC141	coiled-coil domain containing 141	Multiple_Complex
+TC2100008425.hg.1	7,77	6,53	2,35	0,0021	0,5270	SLC19A1	solute carrier family 19 (folate transporter), member 1	NonCoding
+TC1000008489.hg.1	7,7	6,59	2,16	0,0023	0,5409	LGI1	leucine-rich, glioma inactivated 1	Multiple_Complex
+TC0500010515.hg.1	9,2	8,14	2,08	0,0025	0,5516	NUP155	nucleoporin 155kDa	Multiple_Complex
+TC0100011269.hg.1	11,01	9,36	3,14	0,0025	0,5516	LINC00260	long intergenic non-protein coding RNA 260	Multiple_Complex
+TC1300010039.hg.1	6,19	4,95	2,36	0,0025	0,5516	NEK5	NIMA-related kinase 5	NonCoding
+TC1600011223.hg.1	7,49	8,69	-2,29	0,0025	0,5516	SNAI3	snail family zinc finger 3	Coding
+TC1400009992.hg.1	5,64	7,48	-3,58	0,0026	0,5526	FBLN5	fibulin 5	Multiple_Complex
+TC0200012429.hg.1	8,65	9,68	-2,04	0,0026	0,5526	PPM1B	Memczak2013 ANTISENSE, coding, INTERNAL, intronic best transcript NM_001033556	NonCoding
+TC0100007562.hg.1	5,82	7,01	-2,28	0,0027	0,5526	TRNAU1AP	tRNA selenocysteine 1 associated protein 1	Multiple_Complex
+TC0600008989.hg.1	8,67	7,53	2,21	0,0028	0,5526	QRSL1	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1	Multiple_Complex
+TC0700006783.hg.1	7,78	6,64	2,21	0,0028	0,5526	TSPAN13	tetraspanin 13	Multiple_Complex
+TC1600011449.hg.1	7,24	8,45	-2,32	0,0029	0,5526	SPIRE2	spire-type actin nucleation factor 2	NonCoding
+TC1000006604.hg.1	5,54	7,5	-3,91	0,0030	0,5662	AKR1E2	aldo-keto reductase family 1, member E2	Multiple_Complex
+TC0400011815.hg.1	11,97	10,89	2,12	0,0030	0,5670	MFSD8	major facilitator superfamily domain containing 8	Multiple_Complex
+TC1200011961.hg.1	9,02	7,95	2,11	0,0031	0,5734	TMEM116	transmembrane protein 116	Multiple_Complex
+TC1000007427.hg.1	8,17	6,71	2,75	0,0033	0,6052	ZNF485	zinc finger protein 485	Multiple_Complex
+TC1500007929.hg.1	7,76	8,78	-2,03	0,0035	0,6231	PSTPIP1	proline-serine-threonine phosphatase interacting protein 1	Multiple_Complex
+TC0400012126.hg.1	5,54	7,27	-3,34	0,0036	0,6287	GATB	glutamyl-tRNA(Gln) amidotransferase, subunit B	Multiple_Complex
+TC1600010181.hg.1	10,76	9,72	2,06	0,0037	0,6316	NETO2	neuropilin (NRP) and tolloid (TLL)-like 2	Multiple_Complex
+TC1000006802.hg.1	7,13	5,97	2,23	0,0037	0,6316	CAMK1D	calcium/calmodulin-dependent protein kinase ID	Multiple_Complex
+TC1400007443.hg.1	8,11	9,73	-3,08	0,0038	0,6316	HSPA2	heat shock 70kDa protein 2	Multiple_Complex
+TC0400011253.hg.1	8,67	7,49	2,26	0,0041	0,6460	KLHL8	kelch-like family member 8	Multiple_Complex
+TC1100011180.hg.1	7,59	8,81	-2,33	0,0042	0,6460	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	Multiple_Complex
+TC0800011731.hg.1	10,25	11,33	-2,11	0,0042	0,6460	KIAA0196	KIAA0196	Multiple_Complex
+TSUnmapped00000263.hg.1	4,5	3,39	2,15	0,0044	0,6460	BCL2L14	BCL2-like 14 (apoptosis facilitator)	NonCoding
+TC0X00011174.hg.1	7,13	8,17	-2,06	0,0045	0,6460	PDZD4	PDZ domain containing 4	Multiple_Complex
+TC1000009691.hg.1	6,6	5,6	2,01	0,0045	0,6460	IL2RA	interleukin 2 receptor, alpha	Coding
+TC0300010769.hg.1	7,09	8,12	-2,04	0,0046	0,6460	GORASP1	golgi reassembly stacking protein 1	Multiple_Complex
+TC1100007727.hg.1	5,79	4,64	2,22	0,0047	0,6460	FAM111B	family with sequence similarity 111, member B	Multiple_Complex
+TC1200008675.hg.1	9,96	11,48	-2,87	0,0047	0,6460	TXNRD1	thioredoxin reductase 1	Multiple_Complex
+TC0200010807.hg.1	7,75	8,9	-2,23	0,0047	0,6460	TTLL4	tubulin tyrosine ligase-like family member 4	Multiple_Complex
+TC0400009458.hg.1	6,83	8,12	-2,46	0,0048	0,6460	CDKN2AIP	CDKN2A interacting protein	Multiple_Complex
+TC0900010390.hg.1	6,85	8,6	-3,37	0,0050	0,6519	ABHD17B	abhydrolase domain containing 17B	Multiple_Complex
+TC1900008742.hg.1	5,42	4,29	2,19	0,0050	0,6524	VN1R2	vomeronasal 1 receptor 2	Multiple_Complex
+TC0600007684.hg.1	7,64	8,93	-2,46	0,0054	0,6726	SLC39A7	solute carrier family 39 (zinc transporter), member 7	Multiple_Complex
+TC0800007367.hg.1	8,11	9,29	-2,28	0,0055	0,6726	ADAM9	ADAM metallopeptidase domain 9	Multiple_Complex
+TC0900006560.hg.1	8,74	7,3	2,71	0,0058	0,6726	PDCD1LG2	programmed cell death 1 ligand 2	Multiple_Complex
+TC0900008666.hg.1	4,81	3,79	2,02	0,0059	0,6726	OR1J4	olfactory receptor, family 1, subfamily J, member 4	Coding
+TC0100018539.hg.1	6,59	8,63	-4,09	0,0059	0,6726	LHX4-AS1; ACBD6	LHX4 antisense RNA 1; acyl-CoA binding domain containing 6	NonCoding
+TC1200007701.hg.1	10,84	11,86	-2,02	0,0059	0,6726	ZNF740	zinc finger protein 740	Multiple_Complex
+TC0600011945.hg.1	6,69	5,55	2,21	0,0059	0,6726	RCAN2	regulator of calcineurin 2	Coding
+TC0200014672.hg.1	8,51	9,59	-2,12	0,0060	0,6726	NR4A2	nuclear receptor subfamily 4, group A, member 2	Multiple_Complex
+TC2100007999.hg.1	10,21	8,66	2,93	0,0060	0,6726	DNAJC28	DnaJ (Hsp40) homolog, subfamily C, member 28	Coding
+TC0X00008381.hg.1	5,08	6,77	-3,23	0,0060	0,6726	OCRL	oculocerebrorenal syndrome of Lowe	Multiple_Complex
+TC0400012245.hg.1	8,75	7,44	2,48	0,0061	0,6726	FAM198B	family with sequence similarity 198, member B	Multiple_Complex
+TC1100013178.hg.1	6,78	7,87	-2,13	0,0062	0,6726	MAP4K2	mitogen-activated protein kinase kinase kinase kinase 2	Multiple_Complex
+TC0800007959.hg.1	6,47	5,27	2,3	0,0062	0,6726	STAU2-AS1	STAU2 antisense RNA 1	NonCoding
+TC1200011081.hg.1	8,04	6,95	2,13	0,0063	0,6726	C12orf66	chromosome 12 open reading frame 66	Multiple_Complex
+TC0800011679.hg.1	6,14	7,32	-2,27	0,0065	0,6834	ATAD2	ATPase family, AAA domain containing 2	Multiple_Complex
+TC0X00011413.hg.1	5,77	4,77	2	0,0066	0,6857	L1CAM	L1 cell adhesion molecule	Multiple_Complex
+TC0X00007936.hg.1	5,05	6,27	-2,34	0,0066	0,6857	CENPI	centromere protein I	Multiple_Complex
+TC0100010905.hg.1	5,13	6,23	-2,14	0,0068	0,6857	SWT1	SWT1 RNA endoribonuclease homolog	Multiple_Complex
+TC1600007575.hg.1	6,29	4,11	4,54	0,0069	0,6857	TP53TG3D	TP53 target 3D	Multiple_Complex
+TC0700010687.hg.1	9,83	11,01	-2,27	0,0070	0,6872	KBTBD2	kelch repeat and BTB (POZ) domain containing 2	Multiple_Complex
+TC1300008824.hg.1	6,27	8,23	-3,9	0,0071	0,6872	SLC25A30	solute carrier family 25, member 30	Multiple_Complex
+TC0500013089.hg.1	5,8	6,93	-2,19	0,0071	0,6872	GFPT2	glutamine-fructose-6-phosphate transaminase 2	Multiple_Complex
+TC1400010261.hg.1	6,84	5,4	2,72	0,0072	0,6872	MOK	MOK protein kinase	Multiple_Complex
+TC0300010739.hg.1	6,75	7,89	-2,2	0,0072	0,6872	PLCD1	phospholipase C, delta 1	Multiple_Complex
+TC1600007973.hg.1	5,57	6,75	-2,27	0,0072	0,6872	NUP93	nucleoporin 93kDa	Multiple_Complex
+TC1500007180.hg.1	5,96	7,33	-2,58	0,0074	0,6872	GALK2	galactokinase 2	Multiple_Complex
+TC0600013425.hg.1	10,69	9,61	2,11	0,0074	0,6872	ADAT2	adenosine deaminase, tRNA-specific 2	Multiple_Complex
+TC0400009090.hg.1	7,57	6,33	2,35	0,0075	0,6872	TDO2	tryptophan 2,3-dioxygenase	Multiple_Complex
+TC0400010961.hg.1	9	7,56	2,7	0,0076	0,6872	JCHAIN	joining chain of multimeric IgA and IgM	Multiple_Complex
+TC0200011054.hg.1	6,18	7,41	-2,34	0,0076	0,6872	ARMC9	armadillo repeat containing 9	Multiple_Complex
+TC1200008629.hg.1	8,67	7,36	2,48	0,0076	0,6872	DRAM1	DNA-damage regulated autophagy modulator 1	Multiple_Complex
+TC0200014703.hg.1	6,76	5,64	2,16	0,0076	0,6872	CCDC148	coiled-coil domain containing 148	Multiple_Complex
+TC0600008348.hg.1	10,63	11,77	-2,21	0,0077	0,6872	ZNF451	zinc finger protein 451	Multiple_Complex
+TC1500010892.hg.1	6,89	8,05	-2,24	0,0077	0,6872	MAN2C1	mannosidase, alpha, class 2C, member 1	Multiple_Complex
+TC0400012881.hg.1	6,34	5,24	2,14	0,0078	0,6872	DUX4	double homeobox 4	Multiple_Complex
+TC1000012482.hg.1	8,74	7,19	2,92	0,0079	0,6872	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1	Multiple_Complex
+TC2100008555.hg.1	8,23	9,77	-2,9	0,0079	0,6872	TIAM1	T-cell lymphoma invasion and metastasis 1	Multiple_Complex
+TC1500007814.hg.1	6,05	7,18	-2,19	0,0080	0,6872	NEO1	neogenin 1	Multiple_Complex
+TC2100007917.hg.1	5,58	4,53	2,07	0,0080	0,6872	KRTAP11-1	keratin associated protein 11-1	Coding
+TC0700008760.hg.1	6,06	5,02	2,06	0,0081	0,6872	SLC26A4	solute carrier family 26 (anion exchanger), member 4	Multiple_Complex
+TC0100012379.hg.1	6,91	5,81	2,14	0,0081	0,6872	PGBD2	piggyBac transposable element derived 2	Multiple_Complex
+TC1100007875.hg.1	7,65	9	-2,54	0,0084	0,6974	TAF6L	TAF6-like RNA polymerase II, p300/CBP-associated factor (PCAF)-associated factor, 65kDa	Multiple_Complex
+TC0400011052.hg.1	7,75	6,43	2,49	0,0084	0,6974	CXCL9	chemokine (C-X-C motif) ligand 9	Coding
+TC1700012328.hg.1	5,93	6,95	-2,03	0,0085	0,6974	METTL16	methyltransferase like 16	Multiple_Complex
+TC0500007413.hg.1	15,34	14,14	2,29	0,0089	0,6974	GZMA	granzyme A	Multiple_Complex
+TC0100008308.hg.1	6,8	7,87	-2,1	0,0089	0,6974	ZFYVE9	zinc finger, FYVE domain containing 9	Multiple_Complex
+TC0300012834.hg.1	6,91	8,1	-2,28	0,0089	0,6974	TMEM14EP	transmembrane protein 14E, pseudogene	Coding
+TC1900010707.hg.1	7,52	8,87	-2,54	0,0090	0,6974	SERTAD3	SERTA domain containing 3	Multiple_Complex
+TSUnmapped00000480.hg.1	9,07	7,64	2,69	0,0092	0,6974	ZNF780B	zinc finger protein 780B	Coding
+TC0600011956.hg.1	5,92	4,83	2,12	0,0094	0,6974	ADGRF5	adhesion G protein-coupled receptor F5	Multiple_Complex
+TC1700009694.hg.1	6,51	5,26	2,37	0,0095	0,6974	MYH10	myosin, heavy chain 10, non-muscle	Multiple_Complex
+TC0100017505.hg.1	7,04	8,33	-2,45	0,0095	0,6974	SDE2	SDE2 telomere maintenance homolog (S. pombe)	Multiple_Complex
+TC1500007107.hg.1	8,38	7,21	2,25	0,0095	0,6974	SORD	sorbitol dehydrogenase	Multiple_Complex
+TC0400009001.hg.1	3,37	4,86	-2,8	0,0098	0,6974	FAM160A1	family with sequence similarity 160, member A1	Multiple_Complex
+TC1100012519.hg.1	7,55	9,12	-2,96	0,0098	0,6974	CBL	Memczak2013 ANTISENSE, coding, INTERNAL, UTR3 best transcript NM_005188	NonCoding
+TC0300010648.hg.1	7,41	8,49	-2,12	0,0101	0,6974	DYNC1LI1	dynein, cytoplasmic 1, light intermediate chain 1	Multiple_Complex
+TC0100018315.hg.1	10,8	9,79	2,01	0,0103	0,6974	UCK2; MIR3658	uridine-cytidine kinase 2; microRNA 3658	Multiple_Complex
+TC1200011177.hg.1	8,57	6,48	4,26	0,0106	0,6974	IFNG	interferon, gamma	Multiple_Complex
+TC2000007704.hg.1	6,73	7,81	-2,11	0,0106	0,6974	PARD6B	par-6 family cell polarity regulator beta	Multiple_Complex
+TC1300007171.hg.1	6,77	7,96	-2,27	0,0106	0,6974	ARL11	ADP-ribosylation factor like GTPase 11	Multiple_Complex
+TC1500007551.hg.1	6,51	7,97	-2,75	0,0106	0,6974	TRIP4	thyroid hormone receptor interactor 4	Multiple_Complex
+TC0500012568.hg.1	5,91	7,07	-2,24	0,0107	0,6974	GEMIN5	gem nuclear organelle associated protein 5	Multiple_Complex
+TC1600007234.hg.1	9,01	10,37	-2,55	0,0107	0,6974	DCTN5	dynactin 5 (p25)	Multiple_Complex
+TC0400011749.hg.1	8,78	9,83	-2,06	0,0108	0,6974	BBS7	Bardet-Biedl syndrome 7	Multiple_Complex
+TC0200008627.hg.1	7,29	6,28	2,01	0,0109	0,6974	NPAS2	neuronal PAS domain protein 2	Multiple_Complex
+TC0200010852.hg.1	8,7	10,03	-2,52	0,0109	0,6974	GMPPA	GDP-mannose pyrophosphorylase A	Multiple_Complex
+TC0900009458.hg.1	6,86	5,77	2,13	0,0109	0,6974	RLN1	relaxin 1	Multiple_Complex
+TC1100010907.hg.1	5,13	6,25	-2,17	0,0111	0,6995	BTBD18	BTB (POZ) domain containing 18	Coding
+TC1000011515.hg.1	7,03	5,9	2,18	0,0115	0,7042	BLNK	B-cell linker	Multiple_Complex
+TC0200015951.hg.1	5,47	6,55	-2,11	0,0117	0,7045	PID1	phosphotyrosine interaction domain containing 1	Multiple_Complex
+TC0X00011232.hg.1	8,3	7,1	2,3	0,0118	0,7045	CMC4; MTCP1	C-x(9)-C motif containing 4; mature T-cell proliferation 1	Multiple_Complex
+TC0500012163.hg.1	6,06	7,55	-2,82	0,0119	0,7045	CDC23	cell division cycle 23	Multiple_Complex
+TC1400009184.hg.1	5,01	6,29	-2,44	0,0119	0,7045	TXNDC16	thioredoxin domain containing 16	Multiple_Complex
+TC0300011175.hg.1	9,69	8,65	2,05	0,0122	0,7045	PBRM1	polybromo 1	Multiple_Complex
+TC0100010543.hg.1	10,4	9,23	2,25	0,0122	0,7045	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	Multiple_Complex
+TC1400010709.hg.1	6,07	7,37	-2,46	0,0122	0,7045	TTC5	tetratricopeptide repeat domain 5	Multiple_Complex
+TC2000008852.hg.1	10,01	11,16	-2,22	0,0122	0,7045	NOL4L	nucleolar protein 4-like	Multiple_Complex
+TC1300006989.hg.1	9,91	10,99	-2,11	0,0124	0,7045	AKAP11	A kinase (PRKA) anchor protein 11	Multiple_Complex
+TC0200013046.hg.1	8,36	9,36	-2	0,0125	0,7045	EXOC6B	exocyst complex component 6B	Multiple_Complex
+TC1100012981.hg.1	11,2	10,14	2,08	0,0125	0,7045	RCN1	reticulocalbin 1, EF-hand calcium binding domain	Multiple_Complex
+TC0400012930.hg.1	7,49	8,66	-2,26	0,0125	0,7045	COX18	COX18 cytochrome c oxidase assembly factor	Multiple_Complex
+TC0100011215.hg.1	6,65	8,04	-2,61	0,0126	0,7064	LGR6	leucine-rich repeat containing G protein-coupled receptor 6	Multiple_Complex
+TC0600014152.hg.1	6,93	5,47	2,75	0,0127	0,7074	LINC01590; SMIM8	long intergenic non-protein coding RNA 1590; small integral membrane protein 8	NonCoding
+TC1700009137.hg.1	8,56	9,59	-2,04	0,0129	0,7097	RPTOR	regulatory associated protein of MTOR, complex 1	Multiple_Complex
+TC1100006911.hg.1	5,13	6,18	-2,07	0,0129	0,7097	SPON1	spondin 1, extracellular matrix protein	Multiple_Complex
+TSUnmapped00000068.hg.1	7,33	6,13	2,3	0,0129	0,7097	ZNF780A	zinc finger protein 780A	Coding
+TSUnmapped00000538.hg.1	6,65	7,93	-2,44	0,0133	0,7148	DGKD	diacylglycerol kinase, delta 130kDa	NonCoding
+TC1000008665.hg.1	7,65	6,48	2,26	0,0135	0,7212	C10orf2	chromosome 10 open reading frame 2	Multiple_Complex
+TC1000009927.hg.1	7,45	8,64	-2,29	0,0139	0,7212	ST8SIA6	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 6	Multiple_Complex
+TC1700012027.hg.1	7,65	8,74	-2,13	0,0140	0,7212	ENTHD2	ENTH domain containing 2	Multiple_Complex
+TC1100012513.hg.1	10,6	11,7	-2,14	0,0142	0,7212	H2AFX	H2A histone family, member X	Coding
+TC1900011813.hg.1	8,31	9,68	-2,59	0,0145	0,7212	ZNF548	zinc finger protein 548	Multiple_Complex
+TC0X00007368.hg.1	3,41	4,47	-2,09	0,0145	0,7212	TRO	trophinin	Multiple_Complex
+TC0100015803.hg.1	6,23	7,76	-2,89	0,0146	0,7212	TDRKH	tudor and KH domain containing	Multiple_Complex
+TC0100015771.hg.1	5,89	7,06	-2,26	0,0146	0,7212	SEMA6C	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6C	Multiple_Complex
+TC0900006538.hg.1	11,9	10,82	2,11	0,0147	0,7212	JAK2	Janus kinase 2	Multiple_Complex
+TC1300007972.hg.1	4,51	5,57	-2,08	0,0148	0,7212	TNFSF13B	Transcript Identified by AceView, Entrez Gene ID(s) 10673	Unassigned
+TC1400006491.hg.1	5,12	4,11	2,01	0,0149	0,7212	OR4K5	olfactory receptor, family 4, subfamily K, member 5	Coding
+TC2000009971.hg.1	5,44	6,53	-2,13	0,0149	0,7212	SIRPG	signal-regulatory protein gamma	Multiple_Complex
+TC0500013259.hg.1	8,02	9,21	-2,29	0,0151	0,7212	MFAP3	microfibrillar associated protein 3	Multiple_Complex
+TC0600009753.hg.1	6,95	8,4	-2,73	0,0152	0,7212	STXBP5	syntaxin binding protein 5 (tomosyn)	Multiple_Complex
+TC0600012502.hg.1	6,36	5,26	2,15	0,0152	0,7212	GJB7	gap junction protein beta 7	Multiple_Complex
+TC0200015349.hg.1	9,8	8,55	2,39	0,0155	0,7212	HSPD1	heat shock 60kDa protein 1 (chaperonin)	Multiple_Complex
+TC2200008682.hg.1	9,62	10,93	-2,48	0,0156	0,7212	PLA2G6	phospholipase A2, group VI (cytosolic, calcium-independent)	Multiple_Complex
+TC0800012362.hg.1	6,48	4,97	2,84	0,0156	0,7212	KHDRBS3	KH domain containing, RNA binding, signal transduction associated 3	Multiple_Complex
+TC1000008401.hg.1	10,47	9,4	2,1	0,0158	0,7212	IFIT5	interferon-induced protein with tetratricopeptide repeats 5	Coding
+TC0100018519.hg.1	10,2	11,23	-2,06	0,0160	0,7212	F11R	F11 receptor	Multiple_Complex
+TC1200007769.hg.1	7,76	9,39	-3,11	0,0160	0,7212	PDE1B	phosphodiesterase 1B, calmodulin-dependent	Multiple_Complex
+TC1200010157.hg.1	7,92	6,49	2,69	0,0164	0,7212	LYRM5	Memczak2013 ANTISENSE, coding, INTERNAL, intronic best transcript NM_001001660	NonCoding
+TC1100009657.hg.1	13,34	12,07	2,42	0,0164	0,7212	IFITM3	interferon induced transmembrane protein 3	Multiple_Complex
+TC1200006645.hg.1	7,02	8,02	-2	0,0165	0,7212	CD4	CD4 molecule	Multiple_Complex
+TC1100012906.hg.1	6,72	8	-2,42	0,0167	0,7215	IGSF9B	immunoglobulin superfamily, member 9B	Multiple_Complex
+TC0300013826.hg.1	6,04	7,08	-2,05	0,0167	0,7215	P4HTM	prolyl 4-hydroxylase, transmembrane (endoplasmic reticulum)	Multiple_Complex
+TC1600011569.hg.1	8,49	7,12	2,59	0,0170	0,7215	ADAT1	adenosine deaminase, tRNA-specific 1	Multiple_Complex
+TC0100012473.hg.1	8,97	10,59	-3,08	0,0170	0,7215	CCNL2	cyclin L2	Multiple_Complex
+TC1900011825.hg.1	8,79	9,8	-2,01	0,0172	0,7215	ZNF587	zinc finger protein 587	Multiple_Complex
+TC0600013155.hg.1	7,26	6,16	2,14	0,0173	0,7215	TMEM244	transmembrane protein 244	Coding
+TC0500013328.hg.1	4,34	5,66	-2,5	0,0173	0,7215	FAM169A	family with sequence similarity 169, member A	Multiple_Complex
+TC1100011716.hg.1	5,07	4	2,1	0,0173	0,7215	GDPD4	glycerophosphodiester phosphodiesterase domain containing 4	Multiple_Complex
+TC0200011890.hg.1	8,69	7,01	3,21	0,0173	0,7215	LAPTM4A	Memczak2013 ALT_ACCEPTOR, ALT_DONOR, coding, INTERNAL, intronic best transcript NM_014713	NonCoding
+TC0600007377.hg.1	10,07	11,38	-2,49	0,0175	0,7215	HIST1H2BM	histone cluster 1, H2bm	Coding
+TC1700012482.hg.1	7,64	8,74	-2,15	0,0176	0,7220	SIRT7	sirtuin 7	Multiple_Complex
+TC0600014255.hg.1	8,58	7,3	2,43	0,0178	0,7220	UBD	ubiquitin D	Coding
+TC0300006985.hg.1	8,86	9,91	-2,07	0,0180	0,7220	CCR4	chemokine (C-C motif) receptor 4	Coding
+TC0500012631.hg.1	7,88	6,86	2,02	0,0180	0,7234	EBF1	early B-cell factor 1	Multiple_Complex
+TC0100009614.hg.1	4,83	3,75	2,12	0,0184	0,7265	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	Multiple_Complex
+TC1500010463.hg.1	6,79	7,82	-2,04	0,0186	0,7265	PRC1	protein regulator of cytokinesis 1	Multiple_Complex
+TC1300009740.hg.1	8,55	6,94	3,05	0,0188	0,7265	LIG4	ligase IV, DNA, ATP-dependent	Coding
+TC0100015750.hg.1	7,31	5,65	3,17	0,0190	0,7265	HORMAD1	HORMA domain containing 1	Multiple_Complex
+TSUnmapped00000608.hg.1	6,76	5,56	2,29	0,0192	0,7265	ZNF35	zinc finger protein 35	Coding
+TC1200012763.hg.1	7,42	8,42	-2,01	0,0195	0,7265	TAS2R30; TAS2R43; PRR4	taste receptor, type 2, member 30; taste receptor, type 2, member 43; proline rich 4 (lacrimal)	Multiple_Complex
+TC1300008338.hg.1	11,43	10,03	2,64	0,0197	0,7265	MIPEP	mitochondrial intermediate peptidase	Multiple_Complex
+TC0700009233.hg.1	8,46	7,11	2,54	0,0197	0,7265	BPGM	Transcript Identified by AceView, Entrez Gene ID(s) 669	Unassigned
+TC1900010531.hg.1	11,65	10,53	2,17	0,0199	0,7265	ZNF461	zinc finger protein 461	Multiple_Complex
+TSUnmapped00000370.hg.1	5,76	6,77	-2,01	0,0200	0,7265	SLC16A1	solute carrier family 16 (monocarboxylate transporter), member 1	Coding
+TC1900011932.hg.1	8,33	10,05	-3,3	0,0201	0,7265	ALKBH6	alkB homolog 6	Multiple_Complex
+TC0800009872.hg.1	5,99	7,09	-2,15	0,0203	0,7265	TNFRSF10D	tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain	Coding
+TC1600008003.hg.1	8,44	9,9	-2,76	0,0203	0,7265	ADGRG5	adhesion G protein-coupled receptor G5	Multiple_Complex
+TC0100011454.hg.1	8,89	7,17	3,3	0,0203	0,7265	HSD11B1	hydroxysteroid (11-beta) dehydrogenase 1	Multiple_Complex
+TC1000012490.hg.1	9,25	10,68	-2,7	0,0208	0,7265	PI4K2A	phosphatidylinositol 4-kinase type 2 alpha	Multiple_Complex
+TC1700007560.hg.1	7,99	6,55	2,7	0,0209	0,7265	CCL8	chemokine (C-C motif) ligand 8	Coding
+TC0100018476.hg.1	6,87	8	-2,18	0,0210	0,7265	PEX11B	peroxisomal biogenesis factor 11 beta	Multiple_Complex
+TC0300012155.hg.1	7,72	6,67	2,07	0,0211	0,7265	HGD	homogentisate 1,2-dioxygenase	Multiple_Complex
+TC0200012977.hg.1	9,55	8,18	2,59	0,0212	0,7265	MXD1	Memczak2013 ANTISENSE, coding, INTERNAL, intronic best transcript NM_001202514	NonCoding
+TC1900006992.hg.1	9,2	11,66	-5,49	0,0213	0,7265	ILF3	interleukin enhancer binding factor 3	Multiple_Complex
+TC1600007470.hg.1	7,25	9,1	-3,59	0,0214	0,7265	ITGAL	integrin alpha L	Multiple_Complex
+TC0500010998.hg.1	6,41	7,9	-2,8	0,0216	0,7265	CCDC125	coiled-coil domain containing 125	Multiple_Complex
+TC0X00006801.hg.1	5,45	4,24	2,31	0,0218	0,7265	CXorf58	chromosome X open reading frame 58	Coding
+TC1400010622.hg.1	7,11	5,73	2,61	0,0218	0,7265	FNTB	farnesyltransferase, CAAX box, beta	Multiple_Complex
+TC0200008468.hg.1	7,14	8,32	-2,26	0,0220	0,7265	FAHD2A	fumarylacetoacetate hydrolase domain containing 2A	Multiple_Complex
+TC0600014086.hg.1	8,58	7,3	2,43	0,0223	0,7265	ZNF391	zinc finger protein 391	Multiple_Complex
+TC0900008425.hg.1	6,42	4,98	2,71	0,0227	0,7265	ZNF483	zinc finger protein 483	Multiple_Complex
+TC0200010273.hg.1	8,43	9,65	-2,34	0,0231	0,7265	NAB1	NGFI-A binding protein 1	Multiple_Complex
+TC1500010831.hg.1	6,01	4,74	2,41	0,0235	0,7265	OR4F15	olfactory receptor, family 4, subfamily F, member 15	Coding
+TC0200010511.hg.1	6,75	7,91	-2,24	0,0237	0,7265	NBEAL1	neurobeachin like 1	Multiple_Complex
+TC0100015952.hg.1	9,22	10,37	-2,21	0,0239	0,7265	CLK2	CDC like kinase 2	Multiple_Complex
+TC1100009982.hg.1	4,36	5,38	-2,03	0,0242	0,7265	DCHS1	dachsous cadherin-related 1	Multiple_Complex
+TC0X00009007.hg.1	5,83	6,93	-2,15	0,0247	0,7265	PUDP	pseudouridine 5-phosphatase	Multiple_Complex
+TC0800007127.hg.1	10,17	9,05	2,17	0,0248	0,7265	ELP3	elongator acetyltransferase complex subunit 3	Multiple_Complex
+TC1800009280.hg.1	5,98	7,12	-2,2	0,0249	0,7265	HDHD2	haloacid dehalogenase-like hydrolase domain containing 2	Multiple_Complex
+TC1000012485.hg.1	5,2	4,09	2,15	0,0252	0,7265	CC2D2B	coiled-coil and C2 domain containing 2B	Coding
+TC0600008863.hg.1	8,19	7	2,28	0,0253	0,7265	MANEA	mannosidase, endo-alpha	Multiple_Complex
+TC0100014393.hg.1	4,44	5,71	-2,41	0,0253	0,7265	TM2D1	Transcript Identified by AceView, Entrez Gene ID(s) 83941	Unassigned
+TC1500008545.hg.1	7,42	8,9	-2,79	0,0255	0,7265	ASB7	ankyrin repeat and SOCS box containing 7	Multiple_Complex
+TC2200007086.hg.1	5,73	6,75	-2,02	0,0255	0,7265	RNF185	Transcript Identified by AceView, Entrez Gene ID(s) 91445	Unassigned
+TC1500009845.hg.1	9,14	8,03	2,15	0,0255	0,7265	AAGAB	alpha- and gamma-adaptin binding protein	Multiple_Complex
+TC0500013424.hg.1	6,96	5,92	2,06	0,0261	0,7265	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1 (H)	NonCoding
+TC0300007470.hg.1	10,99	12,01	-2,02	0,0261	0,7265	PPM1M	protein phosphatase, Mg2+/Mn2+ dependent, 1M	Multiple_Complex
+TC0200009978.hg.1	8,99	7,68	2,48	0,0261	0,7265	PDK1	pyruvate dehydrogenase kinase, isozyme 1	Multiple_Complex
+TC0100015792.hg.1	5,52	7,07	-2,93	0,0265	0,7265	POGZ	Transcript Identified by AceView, Entrez Gene ID(s) 23126	Unassigned
+TC1000009414.hg.1	7,01	8,32	-2,47	0,0265	0,7265	INPP5A	inositol polyphosphate-5-phosphatase A	Multiple_Complex
+TC1600007814.hg.1	5,36	6,69	-2,52	0,0266	0,7265	ADCY7	adenylate cyclase 7	Multiple_Complex
+TC0100010923.hg.1	6,84	5,72	2,18	0,0271	0,7265	PRG4	proteoglycan 4	Multiple_Complex
+TC0100015265.hg.1	10,36	11,66	-2,46	0,0281	0,7265	DENND2D	DENN/MADD domain containing 2D	Multiple_Complex
+TC0600014150.hg.1	8,21	6,99	2,33	0,0284	0,7265	SMIM8	small integral membrane protein 8	Coding
+TC0X00010793.hg.1	7,57	8,88	-2,48	0,0284	0,7265	ZDHHC9	zinc finger, DHHC-type containing 9	Multiple_Complex
+TC0600011535.hg.1	7,29	8,82	-2,9	0,0286	0,7265	RGL2	ral guanine nucleotide dissociation stimulator-like 2	Multiple_Complex
+TC1100012717.hg.1	11,72	10,68	2,05	0,0290	0,7265	PUS3	pseudouridylate synthase 3	Coding
+TC1500007777.hg.1	8,01	6,65	2,58	0,0290	0,7265	SENP8	SUMO/sentrin peptidase family member, NEDD8 specific	Coding
+TC0200016402.hg.1	10,54	8,96	2,97	0,0290	0,7265	RSAD2	radical S-adenosyl methionine domain containing 2	Multiple_Complex
+TC0400006810.hg.1	7,02	5,71	2,48	0,0291	0,7265	USP17L23	ubiquitin specific peptidase 17-like family member 23 [Source:HGNC Symbol;Acc:HGNC:44451]	Coding
+TC0600013667.hg.1	6,93	8,08	-2,21	0,0292	0,7265	ARID1B	Memczak2013 ANTISENSE, CDS, coding, INTERNAL best transcript NM_017519	NonCoding
+TC0300007484.hg.1	8,38	9,73	-2,54	0,0294	0,7265	STAB1	stabilin 1	Multiple_Complex
+TC0300006961.hg.1	10,24	8,46	3,44	0,0296	0,7265	CMTM8	CKLF-like MARVEL transmembrane domain containing 8	Coding
+TC1100009524.hg.1	7,06	8,51	-2,72	0,0303	0,7265	ST14	suppression of tumorigenicity 14 (colon carcinoma)	Multiple_Complex
+TC1700008218.hg.1	6,29	7,35	-2,09	0,0306	0,7265	FLJ45513; RP11-304F15.3	uncharacterized LOC729220; novel transcript antisense to TAC4	Multiple_Complex
+TC1000011382.hg.1	7,14	6,09	2,07	0,0308	0,7265	PANK1	pantothenate kinase 1	Multiple_Complex
+TC0X00009986.hg.1	7,81	6,73	2,11	0,0310	0,7265	RP5-1091N2.9; IL2RG	Transcript Identified by AceView, Entrez Gene ID(s) 3561; putative novel transcript	NonCoding
+TC1300008705.hg.1	5,79	7,35	-2,94	0,0312	0,7265	ELF1	Transcript Identified by AceView, Entrez Gene ID(s) 1997; 100128628	Unassigned
+TC1000010362.hg.1	6,86	8,12	-2,39	0,0312	0,7265	ZNF248	zinc finger protein 248	Multiple_Complex
+TC0900010056.hg.1	7,13	6,06	2,1	0,0315	0,7265	ANKRD18A; FAM95C	ankyrin repeat domain 18A; family with sequence similarity 95, member C	Multiple_Complex
+TC0X00010346.hg.1	9,83	11,02	-2,28	0,0315	0,7265	TRMT2B	tRNA methyltransferase 2 homolog B	Multiple_Complex
+TC1900011582.hg.1	6,81	7,87	-2,09	0,0316	0,7265	ZNF671	zinc finger protein 671	Multiple_Complex
+TSUnmapped00000196.hg.1	8,65	7,43	2,32	0,0318	0,7265	ZNF546	zinc finger protein 546	Coding
+TC1400008816.hg.1	4,42	5,45	-2,05	0,0320	0,7265	PRKD1	protein kinase D1	Multiple_Complex
+TC1300009799.hg.1	7,48	8,53	-2,07	0,0320	0,7265	CARS2	cysteinyl-tRNA synthetase 2, mitochondrial (putative)	Multiple_Complex
+TC1200011870.hg.1	7,28	9,41	-4,38	0,0323	0,7265	KCTD10	potassium channel tetramerization domain containing 10	Multiple_Complex
+TC0X00009773.hg.1	7,53	8,62	-2,12	0,0324	0,7265	PHF8	PHD finger protein 8	Multiple_Complex
+TC1500008757.hg.1	7,78	8,88	-2,14	0,0324	0,7265	ATP10A	ATPase, class V, type 10A	Multiple_Complex
+TC1000008875.hg.1	5,93	7,55	-3,08	0,0324	0,7265	ADD3	adducin 3 (gamma)	Multiple_Complex
+TC2000010015.hg.1	6,45	5,43	2,03	0,0325	0,7265	WFDC6	WAP four-disulfide core domain 6	Coding
+TC0100012272.hg.1	7,13	8,42	-2,45	0,0326	0,7265	CNST	consortin, connexin sorting protein	Multiple_Complex
+TC0800011395.hg.1	7,2	5,94	2,39	0,0327	0,7265	LRP12	LDL receptor related protein 12	Multiple_Complex
+TC1900008078.hg.1	6,39	4,66	3,31	0,0329	0,7265	LGALS14	lectin, galactoside-binding, soluble, 14	Coding
+TC0X00007557.hg.1	11,41	12,7	-2,44	0,0331	0,7265	MED12	mediator complex subunit 12	Multiple_Complex
+TSUnmapped00000703.hg.1	6,24	5,04	2,3	0,0331	0,7265	FMN1	formin 1	NonCoding
+TC1500009218.hg.1	6,85	8,36	-2,84	0,0332	0,7265	ZSCAN29	zinc finger and SCAN domain containing 29	Multiple_Complex
+TC1700012362.hg.1	5,82	7,22	-2,65	0,0333	0,7265	TRIM16	tripartite motif containing 16	Multiple_Complex
+TC0200011086.hg.1	6,97	8,08	-2,16	0,0335	0,7265	DIS3L2	DIS3 like 3-5 exoribonuclease 2	Multiple_Complex
+TC1700012286.hg.1	7,7	6,48	2,34	0,0337	0,7265	SMG8	SMG8 nonsense mediated mRNA decay factor	Multiple_Complex
+TC1500007851.hg.1	8,53	9,75	-2,33	0,0338	0,7265	ARID3B	AT rich interactive domain 3B (BRIGHT-like)	Multiple_Complex
+TC0700011626.hg.1	8,29	9,54	-2,37	0,0343	0,7293	SEMA3C	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	Multiple_Complex
+TC1100007767.hg.1	8,08	6,57	2,84	0,0344	0,7294	MS4A4A	membrane-spanning 4-domains, subfamily A, member 4A	Multiple_Complex
+TC1800006706.hg.1	7,56	6,45	2,15	0,0346	0,7307	GNAL	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type	Multiple_Complex
+TC1700011773.hg.1	8,58	10,8	-4,64	0,0350	0,7307	WBP2	WW domain binding protein 2	Multiple_Complex
+TC0300013334.hg.1	9,3	10,33	-2,04	0,0351	0,7307	MCCC1	methylcrotonoyl-CoA carboxylase 1	Multiple_Complex
+TC0100012335.hg.1	6,96	5,9	2,1	0,0359	0,7307	OR2AK2	olfactory receptor, family 2, subfamily AK, member 2	Coding
+TC0600012740.hg.1	10,08	8,89	2,29	0,0360	0,7307	RTN4IP1	reticulon 4 interacting protein 1	Multiple_Complex
+TC1000007871.hg.1	6,08	4,95	2,18	0,0364	0,7307	STOX1	storkhead box 1	Coding
+TC0X00010919.hg.1	5,8	4,76	2,06	0,0373	0,7321	CT45A10	cancer/testis antigen family 45, member A10	Coding
+TC0700008031.hg.1	5,67	7,58	-3,74	0,0381	0,7368	GTF2IRD2B	GTF2I repeat domain containing 2B	Multiple_Complex
+TC0300007657.hg.1	7,03	5,86	2,25	0,0384	0,7385	C3orf14	chromosome 3 open reading frame 14	Multiple_Complex
+TC0200016494.hg.1	6,08	7,42	-2,53	0,0385	0,7385	CNNM4	cyclin and CBS domain divalent metal cation transport mediator 4	Multiple_Complex
+TC1200010806.hg.1	9,11	10,5	-2,62	0,0385	0,7385	MAP3K12	mitogen-activated protein kinase kinase kinase 12	Multiple_Complex
+TC0100009176.hg.1	6,05	5	2,08	0,0396	0,7457	SNX7	sorting nexin 7	Multiple_Complex
+TC1700011442.hg.1	8,83	9,91	-2,11	0,0396	0,7457	PECAM1	platelet/endothelial cell adhesion molecule 1	Multiple_Complex
+TC0300011167.hg.1	8,04	9,22	-2,27	0,0396	0,7457	BAP1	BRCA1 associated protein 1	Multiple_Complex
+TC0800008943.hg.1	8,04	7,01	2,04	0,0398	0,7457	PHF20L1	Transcript Identified by AceView, Entrez Gene ID(s) 51105	Unassigned
+TC0100016155.hg.1	7,87	9,23	-2,58	0,0398	0,7457	USF1	upstream transcription factor 1	Multiple_Complex
+TC1200008477.hg.1	7,69	8,83	-2,2	0,0402	0,7457	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain	Multiple_Complex
+TC0100013408.hg.1	7,79	9,26	-2,76	0,0405	0,7457	GPN2	GPN-loop GTPase 2	Multiple_Complex
+TC1900008547.hg.1	9,78	11,11	-2,51	0,0405	0,7457	PRR12	proline rich 12	Multiple_Complex
+TC1400006833.hg.1	9,48	8,36	2,16	0,0406	0,7457	AP4S1	adaptor-related protein complex 4, sigma 1 subunit	Multiple_Complex
+TC1300006802.hg.1	9,04	7,99	2,07	0,0411	0,7476	BRCA2	breast cancer 2, early onset	Multiple_Complex
+TC0500009863.hg.1	5,62	6,78	-2,24	0,0411	0,7476	LPCAT1	lysophosphatidylcholine acyltransferase 1	Multiple_Complex
+TC2100008538.hg.1	5,78	6,86	-2,12	0,0414	0,7476	PWP2	PWP2 periodic tryptophan protein homolog (yeast)	Multiple_Complex
+TC1600010172.hg.1	8,93	7,57	2,57	0,0414	0,7476	RP11-93O14.2; VPS35	novel transcript; Transcript Identified by AceView, Entrez Gene ID(s) 55737	NonCoding
+TC1200008726.hg.1	10,09	11,61	-2,86	0,0415	0,7476	TCP11L2	t-complex 11, testis-specific-like 2	Multiple_Complex
+TC0900009470.hg.1	7,43	8,49	-2,09	0,0418	0,7476	ERMP1	endoplasmic reticulum metallopeptidase 1	Multiple_Complex
+TC1100012358.hg.1	7,92	9,36	-2,71	0,0419	0,7476	USP28	ubiquitin specific peptidase 28	Multiple_Complex
+TC1400010398.hg.1	8,3	9,38	-2,12	0,0435	0,7476	GPR132	G protein-coupled receptor 132	Multiple_Complex
+TC0600009169.hg.1	9,78	8,52	2,4	0,0436	0,7476	FAM229B	family with sequence similarity 229, member B	Coding
+TC0700013055.hg.1	7,3	8,58	-2,42	0,0441	0,7476	CDK5	cyclin-dependent kinase 5	Multiple_Complex
+TC0800007978.hg.1	11,76	10,39	2,57	0,0446	0,7476	LY96	lymphocyte antigen 96	Coding
+TC0900008887.hg.1	10,16	11,45	-2,45	0,0450	0,7476	TBC1D13	TBC1 domain family, member 13	Multiple_Complex
+TC0900011284.hg.1	11,35	12,51	-2,23	0,0455	0,7476	AKNA	AT-hook transcription factor	Multiple_Complex
+TC1700008263.hg.1	8,52	9,89	-2,59	0,0456	0,7476	ABCC3	ATP binding cassette subfamily C member 3	Multiple_Complex
+TC1300008137.hg.1	6,55	7,57	-2,03	0,0492	0,7476	TMCO3	transmembrane and coiled-coil domains 3	Multiple_Complex
+TC0700010189.hg.1	10,53	11,94	-2,66	0,0493	0,7476	CYTH3	cytohesin 3	Multiple_Complex
+TC0600011562.hg.1	6,97	8,04	-2,11	0,0497	0,7476	LEMD2	LEM domain containing 2	Multiple_Complex
+TC0500011483.hg.1	8,85	7,84	2,02	0,0499	0,7476	MCTP1	multiple C2 domains, transmembrane 1	Multiple_Complex
+TSUnmapped00000144.hg.1	4,4	6,27	-3,66	0,0500	0,7476	DUSP16	dual specificity phosphatase 16	NonCoding

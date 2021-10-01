@@ -1,0 +1,142 @@
+#%result_name=Analysis_4
+#%array_type=Clariom_S_Human
+#%annotation=Clariom_S_Human.r1.na36.hg38.a1.transcript.csv
+#%comparison=102 IL21 vs 102 NEG
+ID	102 IL21 Avg (log2)	102 NEG Avg (log2)	Fold Change	P-val	FDR P-val	Gene Symbol	Description	Group
+TC0100014857.hg.1	14,14	12,74	2,65	2,28E-06	0,0253	GBP5	guanylate binding protein 5	Multiple_Complex
+TC0600011945.hg.1	8,48	5,85	6,21	2,36E-06	0,0253	RCAN2	regulator of calcineurin 2	Coding
+TC1300007546.hg.1	10,99	8,36	6,17	1,24E-05	0,0887	IRG1	immunoresponsive 1 homolog (mouse)	Coding
+TC0800007382.hg.1	12,25	9,77	5,58	2,99E-05	0,1603	IDO1	indoleamine 2,3-dioxygenase 1	Multiple_Complex
+TC0100008653.hg.1	9,76	8,07	3,23	8,42E-05	0,2827	IL12RB2	interleukin 12 receptor, beta 2	Multiple_Complex
+TC0400011052.hg.1	9,48	7,17	4,97	8,71E-05	0,2827	CXCL9	chemokine (C-X-C motif) ligand 9	Coding
+TC0900009489.hg.1	7,95	6,52	2,68	9,23E-05	0,2827	GLDC	glycine dehydrogenase (decarboxylating)	Multiple_Complex
+TC0600011773.hg.1	8,14	6,59	2,92	0,0001	0,2850	TREML2	triggering receptor expressed on myeloid cells-like 2	Coding
+TC1700012110.hg.1	11,67	8,56	8,62	0,0002	0,3733	SECTM1	secreted and transmembrane 1	Multiple_Complex
+TC0900009944.hg.1	11,32	9,62	3,23	0,0003	0,4906	CD72	CD72 molecule	Multiple_Complex
+TC0900006560.hg.1	10,53	8,41	4,35	0,0003	0,4906	PDCD1LG2	programmed cell death 1 ligand 2	Multiple_Complex
+TC1400008764.hg.1	13,61	12,35	2,38	0,0003	0,4906	GZMB	granzyme B	Coding
+TC1600009185.hg.1	9,82	7,98	3,59	0,0003	0,4934	MEFV	Mediterranean fever	Multiple_Complex
+TC0100012787.hg.1	7,41	6,01	2,65	0,0003	0,5066	SLC2A5	solute carrier family 2 (facilitated glucose/fructose transporter), member 5	Multiple_Complex
+TC0900006892.hg.1	4,03	5,39	-2,57	0,0004	0,5818	IFNK	interferon, kappa	Coding
+TC2100006951.hg.1	7,59	9,4	-3,52	0,0006	0,6730	OLIG1	oligodendrocyte transcription factor 1	Multiple_Complex
+TC1500007196.hg.1	7,61	5,94	3,17	0,0006	0,6730	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	Multiple_Complex
+TC0400006951.hg.1	9,26	7,91	2,54	0,0006	0,6730	CD38	CD38 molecule	Multiple_Complex
+TC0800007866.hg.1	3,4	4,4	-2,01	0,0007	0,6730	MCMDC2	minichromosome maintenance domain containing 2	Multiple_Complex
+TC0200013001.hg.1	7,43	6,18	2,37	0,0007	0,6730	ADD2	adducin 2 (beta)	Multiple_Complex
+TC0100013545.hg.1	7,23	5,75	2,79	0,0007	0,6948	SDC3	syndecan 3	Multiple_Complex
+TC0900006559.hg.1	13,13	11,63	2,84	0,0009	0,7432	CD274	CD274 molecule	Multiple_Complex
+TC0100009866.hg.1	9,3	7,03	4,81	0,0012	0,8605	FCGR1A	Fc fragment of IgG, high affinity Ia, receptor (CD64)	Multiple_Complex
+TC0500007972.hg.1	9,16	10,89	-3,33	0,0013	0,8605	VCAN	versican	Multiple_Complex
+TC0600014105.hg.1	7,97	6,73	2,36	0,0013	0,8605	C2	complement component 2	Multiple_Complex
+TC1500008046.hg.1	8,79	7,55	2,37	0,0014	0,8605	CEMIP	cell migration inducing protein, hyaluronan binding	Multiple_Complex
+TC0700012970.hg.1	6,1	7,12	-2,03	0,0015	0,8817	ZNF786	zinc finger protein 786	Multiple_Complex
+TC0100013278.hg.1	7,45	8,45	-2	0,0015	0,8817	TCEA3	transcription elongation factor A (SII), 3	Multiple_Complex
+TC1000009691.hg.1	8,89	7,73	2,24	0,0016	0,8817	IL2RA	interleukin 2 receptor, alpha	Coding
+TC0600011658.hg.1	9,86	7,76	4,3	0,0018	0,9303	ETV7	ets variant 7	Coding
+TC1500008038.hg.1	10,89	9,05	3,58	0,0023	0,9996	ARNT2; MIR5572	aryl-hydrocarbon receptor nuclear translocator 2; microRNA 5572	Multiple_Complex
+TC1700012206.hg.1	6,52	7,92	-2,64	0,0024	0,9996	LOC79999; LOC388436; RP11-744A16.4	uncharacterized LOC79999; Homo sapiens uncharacterized protein ENSP00000382042 (LOC388436), mRNA.; novel transcript	Multiple_Complex
+TC0600009545.hg.1	8,37	9,81	-2,73	0,0024	0,9996	PDE7B	phosphodiesterase 7B	Multiple_Complex
+TC1900008879.hg.1	9,56	8,55	2	0,0026	0,9996	KIR2DS5; KIR3DL2; KIR2DL1; KIR3DL3; KIR3DL1; KIR2DS4; KIR2DL3; KIR3DS1; KIR2DS2; KIR2DP1; KIR3DP1	killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 5; killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 2; killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 1; killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 3; killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1; killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 4; killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 3; killer cell immunoglobulin-like receptor, three domains, short cytoplasmic tail, 1; killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 2; killer cell immunoglobulin-like receptor, two domains, pseudogene 1; killer cell immunoglobulin-like receptor, three domains, pseudogene 1	Multiple_Complex
+TC0400010768.hg.1	7,08	6,01	2,11	0,0029	0,9996	AASDH	aminoadipate-semialdehyde dehydrogenase	Multiple_Complex
+TC2200008592.hg.1	10,53	9,33	2,29	0,0032	0,9996	APOL2	apolipoprotein L, 2	Multiple_Complex
+TC1000008383.hg.1	6,14	4,81	2,5	0,0036	0,9996	LIPM	lipase, family member M	Coding
+TC1500010368.hg.1	9,93	8,84	2,14	0,0040	0,9996	HAPLN3	hyaluronan and proteoglycan link protein 3	Multiple_Complex
+TC1600008427.hg.1	12,49	11,2	2,45	0,0041	0,9996	ZNRF1	zinc and ring finger 1, E3 ubiquitin protein ligase	Multiple_Complex
+TC0100010939.hg.1	8,47	7,39	2,1	0,0045	0,9996	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	Multiple_Complex
+TC1200010612.hg.1	7,84	6,82	2,03	0,0049	0,9996	RHEBL1	Ras homolog enriched in brain like 1	Multiple_Complex
+TC1200011181.hg.1	5,58	6,71	-2,18	0,0049	0,9996	MDM1	Mdm1 nuclear protein	Multiple_Complex
+TC1500007804.hg.1	7,81	6,47	2,55	0,0052	0,9996	BBS4	Bardet-Biedl syndrome 4	Multiple_Complex
+TSUnmapped00000178.hg.1	5,27	6,49	-2,33	0,0053	0,9996	SLC16A1	solute carrier family 16 (monocarboxylate transporter), member 1	NonCoding
+TC0X00006626.hg.1	8,81	7,55	2,4	0,0055	0,9996	TLR8	toll-like receptor 8	Coding
+TC0100014766.hg.1	5,35	6,42	-2,11	0,0058	0,9996	LPAR3	lysophosphatidic acid receptor 3	Multiple_Complex
+TC1900009134.hg.1	10,31	8,95	2,56	0,0059	0,9996	SBNO2	strawberry notch homolog 2 (Drosophila)	Multiple_Complex
+TC1100007684.hg.1	8,71	5,91	6,92	0,0066	0,9996	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1	Multiple_Complex
+TC0100011413.hg.1	8,69	7,19	2,83	0,0066	0,9996	CR2	complement component (3d/Epstein Barr virus) receptor 2	Multiple_Complex
+TC1200010145.hg.1	9,03	10,28	-2,38	0,0068	0,9996	BCAT1	branched chain amino-acid transaminase 1, cytosolic	Multiple_Complex
+TC1000011368.hg.1	14,92	12,6	4,98	0,0070	0,9996	ANKRD22	ankyrin repeat domain 22	Multiple_Complex
+TC1700012337.hg.1	8,87	7,52	2,54	0,0072	0,9996	P2RX5	purinergic receptor P2X, ligand gated ion channel, 5	Multiple_Complex
+TC0300008284.hg.1	3,68	4,68	-2	0,0073	0,9996	HHLA2	HERV-H LTR-associating 2	Coding
+TC0600014255.hg.1	10,19	8,71	2,79	0,0077	0,9996	UBD	ubiquitin D	Coding
+TC1100012906.hg.1	7,64	9,09	-2,74	0,0078	0,9996	IGSF9B	immunoglobulin superfamily, member 9B	Multiple_Complex
+TC0600008697.hg.1	9,31	10,32	-2,02	0,0078	0,9996	NT5E	5-nucleotidase, ecto (CD73)	Multiple_Complex
+TC1500006870.hg.1	8,43	9,5	-2,1	0,0079	0,9996	C15orf41	chromosome 15 open reading frame 41	Multiple_Complex
+TC0900009785.hg.1	8,83	7,58	2,38	0,0079	0,9996	LINGO2	leucine rich repeat and Ig domain containing 2	Multiple_Complex
+TC1600007373.hg.1	9,92	8,6	2,49	0,0082	0,9996	CD19	CD19 molecule	Multiple_Complex
+TC1700007560.hg.1	11,05	9,37	3,21	0,0084	0,9996	CCL8	chemokine (C-C motif) ligand 8	Coding
+TC1200010006.hg.1	8,73	7,55	2,26	0,0085	0,9996	PLBD1	phospholipase B domain containing 1	Multiple_Complex
+TC0100007117.hg.1	8,62	7,49	2,19	0,0087	0,9996	ARHGEF10L	Rho guanine nucleotide exchange factor 10 like	Multiple_Complex
+TC0400008228.hg.1	6,57	7,69	-2,17	0,0088	0,9996	METAP1	methionyl aminopeptidase 1	Multiple_Complex
+TC0400008628.hg.1	5,01	6,27	-2,4	0,0098	0,9996	SPRY1	sprouty RTK signaling antagonist 1	Multiple_Complex
+TC0500007114.hg.1	10,68	12,07	-2,62	0,0099	0,9996	RAI14	retinoic acid induced 14	Multiple_Complex
+TC0500010600.hg.1	7,61	6,25	2,57	0,0101	0,9996	OXCT1	Transcript Identified by AceView, Entrez Gene ID(s) 5019	Unassigned
+TC0200008261.hg.1	13,61	12,21	2,64	0,0105	0,9996	VAMP5	vesicle associated membrane protein 5	Multiple_Complex
+TC0300013602.hg.1	6,8	8,46	-3,17	0,0113	0,9996	ATP13A3	Transcript Identified by AceView, Entrez Gene ID(s) 79572	Unassigned
+TC0500013259.hg.1	8,8	7,54	2,38	0,0116	0,9996	MFAP3	microfibrillar associated protein 3	Multiple_Complex
+TC2200007242.hg.1	8,72	7,23	2,81	0,0120	0,9996	APOL1	apolipoprotein L1	Multiple_Complex
+TC2100008527.hg.1	11,5	10,5	2	0,0122	0,9996	SLC37A1	solute carrier family 37 (glucose-6-phosphate transporter), member 1	Multiple_Complex
+TC0800010784.hg.1	4,05	5,41	-2,56	0,0124	0,9996	TRPA1	transient receptor potential cation channel, subfamily A, member 1	Multiple_Complex
+TC1100008797.hg.1	7,67	6,57	2,14	0,0125	0,9996	PANX1	pannexin 1	Coding
+TC1000011376.hg.1	5,06	7,16	-4,28	0,0128	0,9996	CH25H	cholesterol 25-hydroxylase	Coding
+TC0600008630.hg.1	4,09	5,09	-2,01	0,0129	0,9996	TTK	TTK protein kinase	Multiple_Complex
+TC1900008287.hg.1	6,82	5,79	2,04	0,0134	0,9996	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	Multiple_Complex
+TC0100011388.hg.1	6,62	8,3	-3,21	0,0136	0,9996	IL19	interleukin 19	Multiple_Complex
+TC0700011584.hg.1	13,49	12,36	2,19	0,0138	0,9996	FGL2	fibrinogen-like 2	Multiple_Complex
+TC0700013355.hg.1	5,31	6,42	-2,16	0,0138	0,9996	NME8	NME/NM23 family member 8	Multiple_Complex
+TC0100015049.hg.1	6,37	5,04	2,52	0,0139	0,9996	FRRS1	ferric-chelate reductase 1	Multiple_Complex
+TC2000007519.hg.1	13,61	12,6	2,01	0,0145	0,9996	CD40	CD40 molecule, TNF receptor superfamily member 5	Multiple_Complex
+TC0300009301.hg.1	5,55	6,69	-2,21	0,0145	0,9996	PTX3	pentraxin 3, long	Coding
+TC0400011014.hg.1	12,32	13,67	-2,54	0,0147	0,9996	CXCL5	chemokine (C-X-C motif) ligand 5	Multiple_Complex
+TC1100010760.hg.1	6,33	7,44	-2,16	0,0150	0,9996	AGBL2	ATP/GTP binding protein-like 2	Multiple_Complex
+TC0500007607.hg.1	6,78	5,31	2,76	0,0151	0,9996	NLN	neurolysin (metallopeptidase M3 family)	Multiple_Complex
+TC1200011838.hg.1	11,33	10,18	2,22	0,0161	0,9996	CMKLR1	chemerin chemokine-like receptor 1	Multiple_Complex
+TC1400010195.hg.1	15,55	14,48	2,09	0,0165	0,9996	WARS	tryptophanyl-tRNA synthetase	Multiple_Complex
+TC1600007931.hg.1	12,11	11,04	2,1	0,0168	0,9996	LPCAT2	lysophosphatidylcholine acyltransferase 2	Multiple_Complex
+TC0100009656.hg.1	6,7	5,22	2,79	0,0169	0,9996	FCGR1B	Fc fragment of IgG, high affinity Ib, receptor (CD64)	Multiple_Complex
+TC0200015951.hg.1	7,77	8,78	-2,01	0,0169	0,9996	PID1	phosphotyrosine interaction domain containing 1	Multiple_Complex
+TC1600011186.hg.1	10,35	9,07	2,42	0,0180	0,9996	SLC7A5	solute carrier family 7 (amino acid transporter light chain, L system), member 5	Multiple_Complex
+TC0400011053.hg.1	9,1	7,22	3,68	0,0183	0,9996	CXCL10	chemokine (C-X-C motif) ligand 10	Coding
+TC0400009182.hg.1	7,34	6,16	2,27	0,0186	0,9996	MARCH1	Memczak2013 ANTISENSE, coding, INTERNAL, intronic best transcript NM_001166373	NonCoding
+TC0500011596.hg.1	8,41	7,28	2,18	0,0197	0,9996	SLCO4C1	solute carrier organic anion transporter family, member 4C1	Coding
+TC1400007712.hg.1	12,29	11,14	2,22	0,0210	0,9996	BATF	basic leucine zipper transcription factor, ATF-like	Multiple_Complex
+TC0100010923.hg.1	8,49	7,31	2,26	0,0214	0,9996	PRG4	proteoglycan 4	Multiple_Complex
+TC0400006987.hg.1	14,6	13,29	2,48	0,0216	0,9996	LAP3	leucine aminopeptidase 3	Multiple_Complex
+TC1400006853.hg.1	5,12	6,13	-2,01	0,0220	0,9996	AKAP6	A kinase (PRKA) anchor protein 6	Multiple_Complex
+TC0400010449.hg.1	11,18	10,17	2,02	0,0222	0,9996	TLR10	toll-like receptor 10	Multiple_Complex
+TC1200009157.hg.1	13,28	12,16	2,17	0,0223	0,9996	P2RX7	purinergic receptor P2X, ligand gated ion channel, 7	Multiple_Complex
+TC2200008856.hg.1	9,7	8,65	2,07	0,0236	0,9996	NAGA	N-acetylgalactosaminidase, alpha-	Multiple_Complex
+TC0600009456.hg.1	6,83	5,56	2,4	0,0237	0,9996	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3	Multiple_Complex
+TC1500007833.hg.1	10,52	9,41	2,17	0,0240	0,9996	PML	promyelocytic leukemia	Multiple_Complex
+TC0300007251.hg.1	10,18	8,55	3,11	0,0241	0,9996	CXCR6	chemokine (C-X-C motif) receptor 6	Multiple_Complex
+TC1200010341.hg.1	5	6,04	-2,06	0,0242	0,9996	PKP2	plakophilin 2	Multiple_Complex
+TC2200009269.hg.1	13,5	11,24	4,79	0,0244	0,9996	APOBEC3A	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3A	Multiple_Complex
+TC1400010012.hg.1	13,64	12,56	2,12	0,0250	0,9996	LGMN	legumain	Multiple_Complex
+TC0200016494.hg.1	8,05	6,58	2,76	0,0254	0,9996	CNNM4	cyclin and CBS domain divalent metal cation transport mediator 4	Multiple_Complex
+TC0100006862.hg.1	8,85	7,38	2,78	0,0257	0,9996	FBXO6	F-box protein 6	Multiple_Complex
+TC0800010458.hg.1	9,07	10,3	-2,34	0,0272	0,9996	TCEA1	transcription elongation factor A (SII), 1	Multiple_Complex
+TC0X00010329.hg.1	5,37	6,55	-2,27	0,0275	0,9996	TSPAN6	tetraspanin 6	Multiple_Complex
+TC0X00006801.hg.1	3,92	5,06	-2,21	0,0285	0,9996	CXorf58	chromosome X open reading frame 58	Coding
+TC0200009927.hg.1	4,51	5,79	-2,43	0,0285	0,9996	MYO3B	myosin IIIB	Multiple_Complex
+TC0700008011.hg.1	12,15	11,12	2,04	0,0290	0,9996	NCF1	neutrophil cytosolic factor 1	Multiple_Complex
+TC1900009838.hg.1	9,23	7,97	2,39	0,0291	0,9996	ADGRE2	adhesion G protein-coupled receptor E2	Multiple_Complex
+TC1100007216.hg.1	9,86	8,69	2,25	0,0291	0,9996	PRRG4	proline rich Gla (G-carboxyglutamic acid) 4 (transmembrane)	Multiple_Complex
+TC0800012389.hg.1	10,68	9,6	2,11	0,0291	0,9996	MSR1	macrophage scavenger receptor 1	Coding
+TC0600007868.hg.1	9,86	10,96	-2,14	0,0292	0,9996	RNF8	ring finger protein 8, E3 ubiquitin protein ligase	Multiple_Complex
+TC0200008663.hg.1	11,18	10,09	2,12	0,0300	0,9996	IL1R2	interleukin 1 receptor, type II	Multiple_Complex
+TC1700011566.hg.1	6,37	5,34	2,05	0,0305	0,9996	FAM20A	family with sequence similarity 20, member A	Multiple_Complex
+TC1500007805.hg.1	7,19	6	2,27	0,0330	0,9996	BBS4	Memczak2013 ALT_ACCEPTOR, ALT_DONOR, coding, INTERNAL, intronic best transcript NM_033028	NonCoding
+TC1900009766.hg.1	7,15	6,03	2,16	0,0350	0,9996	TRMT1	tRNA methyltransferase 1	Multiple_Complex
+TC1700010707.hg.1	9,35	8,15	2,3	0,0351	0,9996	DHX58	DEXH (Asp-Glu-X-His) box polypeptide 58	Multiple_Complex
+TC0100014313.hg.1	6,11	7,32	-2,31	0,0361	0,9996	PPAP2B	Transcript Identified by AceView, Entrez Gene ID(s) 8613	Unassigned
+TC1200010038.hg.1	5,71	6,86	-2,22	0,0362	0,9996	EPS8	epidermal growth factor receptor pathway substrate 8	Multiple_Complex
+TC0100008797.hg.1	6,52	7,78	-2,39	0,0370	0,9996	AK5	adenylate kinase 5	Multiple_Complex
+TC0800009208.hg.1	6,41	4,98	2,71	0,0421	0,9996	ZNF623	zinc finger protein 623	Coding
+TC2200007273.hg.1	12,64	11,29	2,55	0,0429	0,9996	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	Multiple_Complex
+TC0100008618.hg.1	7,38	8,39	-2,02	0,0432	0,9996	AK4	adenylate kinase 4	Multiple_Complex
+TC1400010763.hg.1	8,24	6,89	2,54	0,0432	0,9996	TMEM229B	transmembrane protein 229B	Coding
+TC0200010852.hg.1	10,83	9,82	2,02	0,0436	0,9996	GMPPA	GDP-mannose pyrophosphorylase A	Multiple_Complex
+TC1700008769.hg.1	6,98	5,94	2,05	0,0440	0,9996	KCNJ2	potassium channel, inwardly rectifying subfamily J, member 2	Coding
+TC1400007093.hg.1	8,53	9,57	-2,06	0,0466	0,9996	KLHDC1	kelch domain containing 1	Multiple_Complex
+TC1200008729.hg.1	9,69	8,54	2,21	0,0473	0,9996	POLR3B	polymerase (RNA) III (DNA directed) polypeptide B	Multiple_Complex
+TC1100012131.hg.1	6,85	8,14	-2,46	0,0476	0,9996	MMP1	matrix metallopeptidase 1	Multiple_Complex
+TC1600007997.hg.1	6,37	7,45	-2,11	0,0476	0,9996	CCL22	chemokine (C-C motif) ligand 22	Multiple_Complex
+TC0X00007119.hg.1	6,63	5,47	2,23	0,0480	0,9996	JADE3	jade family PHD finger 3	Multiple_Complex
