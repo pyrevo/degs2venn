@@ -11,6 +11,7 @@ doAffy <- function(info, path, args) {
     d <- genelist(x, info$comparison)
     #print(keys(d))
     v <- as.list(d)
+    v <- v[info$comparison]
     plotVenn(v, "Venn_UpDown.pdf")
     printGenes(v, "Venn_UpDown.csv")
     # do UP

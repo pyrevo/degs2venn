@@ -21,9 +21,9 @@ test_output <- function(out) {
 #---------------------#
 # degs2venn Functions #
 #---------------------#
-ffreadd <- function(info, path) {
+ffreadd <- function(info, path, rpval) {
     dt <- fread(file=path, header=T, skip=4, dec=",", sep="\t")
-    dt <- dt[dt$"P-val" <= as.numeric(args$pval) ,]
+    dt <- dt[dt$"FDR P-val" <= as.numeric(args$FDR) ,]
     dt <- dt[dt$"Fold Change" >= as.numeric(args$logFC) | dt$"Fold Change" <= -as.numeric(args$logFC) ,]
     dt[, ("Comparison"):=info]
     return(dt)
